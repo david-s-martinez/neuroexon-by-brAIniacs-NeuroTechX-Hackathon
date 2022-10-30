@@ -14,6 +14,7 @@ that provides haptic feedback. The sensory feedback to the user on top of the vi
 of the exoskeleton moving improves the user experience and aims to further help restore the
 function in the arm.
 ![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/electronics.jpeg)
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/flowchart.png)
 
 The system is low cost and portable, implemented using 3D printed materials and a Raspberry
 Pi and Arduino board to control the exoskeleton and the haptic feedback system. On the other
@@ -25,6 +26,9 @@ a control signal to move the elbow exoskeleton from the resting position (at 90Â
 arm, which is assumed to be functional in a stroke patient. In the future, error-related potentials
 elicited by this feedback is planned to cancel false positive control signals.
 ![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/setup.jpeg)
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/graph1.png)
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/graph2.png)
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/graph3.png)
 
 # Further EEG scripts avaliable upon request.
 
