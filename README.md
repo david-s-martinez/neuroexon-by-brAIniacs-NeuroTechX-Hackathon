@@ -1,5 +1,6 @@
 # NeuroTechX-Hackathon
 
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/neuroexon_logo.png)
 The population affected by stroke is projected to quadruple by 2050. And stroke survivors
 often experience muscle weakness. This degeneration in the muscles can be problematic and
 prevent them from performing everyday tasks. Therefore, they need neurorehabilitation to
