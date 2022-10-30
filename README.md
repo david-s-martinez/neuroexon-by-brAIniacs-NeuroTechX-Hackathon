@@ -1,4 +1,4 @@
-# NeuroTechX-Hackathon
+# neuroexon by brAIniacs - NeuroTechX Hackathon
 
 ![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/neuroexon_logo.png)
 The population affected by stroke is projected to quadruple by 2050. And stroke survivors
