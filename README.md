@@ -25,10 +25,15 @@ a control signal to move the elbow exoskeleton from the resting position (at 90�
 arm, which is assumed to be functional in a stroke patient. In the future, error-related potentials
 elicited by this feedback is planned to cancel false positive control signals.
 ![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/setup.jpeg)
-References
+
+# References
+
 1 U. N. D. of Economic and S. A. P. Division,World population ageing: 2017 highlights. UN,2017.
+
 2 L. A. Martinez, O. O. Olaloye, M. V. Talarico,S. M. Shah, R. J. Arends, and B. F. BuSha, “Apower-assisted
+
 exoskeleton optimized for pinch-ing and grasping motions,” inProceedings of the2010 IEEE 36th Annual
 Northeast Bioengineer-ing Conference (NEBEC), 2010, pp. 1–2
+
 3 G. Pfurtscheller et al., “The hybrid BCI,” Frontiers in Neuroscience, vol. 4, 2010, Accessed: Oct. 30,
 2022, Available: https://www.frontiersin.org/articles/10.3389/fnpro.2010.00003
