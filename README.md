@@ -13,6 +13,7 @@ improves the accuracy of the system, and the elbow exoskeleton includes a vibrot
 that provides haptic feedback. The sensory feedback to the user on top of the visual feedback
 of the exoskeleton moving improves the user experience and aims to further help restore the
 function in the arm.
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/electronics.jpeg)
 
 The system is low cost and portable, implemented using 3D printed materials and a Raspberry
 Pi and Arduino board to control the exoskeleton and the haptic feedback system. On the other
@@ -23,7 +24,7 @@ a control signal to move the elbow exoskeleton from the resting position (at 90�
 (flexion) or 170º (extension). This movement is preceded by a vibrotactile feedback to the other
 arm, which is assumed to be functional in a stroke patient. In the future, error-related potentials
 elicited by this feedback is planned to cancel false positive control signals.
-
+![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/setup.jpeg)
 References
 1 U. N. D. of Economic and S. A. P. Division,World population ageing: 2017 highlights. UN,2017.
 2 L. A. Martinez, O. O. Olaloye, M. V. Talarico,S. M. Shah, R. J. Arends, and B. F. BuSha, “Apower-assisted
