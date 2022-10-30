@@ -30,9 +30,7 @@ elicited by this feedback is planned to cancel false positive control signals.
 
 1 U. N. D. of Economic and S. A. P. Division,World population ageing: 2017 highlights. UN,2017.
 
-2 L. A. Martinez, O. O. Olaloye, M. V. Talarico,S. M. Shah, R. J. Arends, and B. F. BuSha, “Apower-assisted
-
-exoskeleton optimized for pinch-ing and grasping motions,” inProceedings of the2010 IEEE 36th Annual
+2 L. A. Martinez, O. O. Olaloye, M. V. Talarico,S. M. Shah, R. J. Arends, and B. F. BuSha, “Apower-assisted exoskeleton optimized for pinch-ing and grasping motions,” inProceedings of the2010 IEEE 36th Annual
 Northeast Bioengineer-ing Conference (NEBEC), 2010, pp. 1–2
 
 3 G. Pfurtscheller et al., “The hybrid BCI,” Frontiers in Neuroscience, vol. 4, 2010, Accessed: Oct. 30,
