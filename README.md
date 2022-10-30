@@ -26,6 +26,8 @@ arm, which is assumed to be functional in a stroke patient. In the future, error
 elicited by this feedback is planned to cancel false positive control signals.
 ![alt text](https://github.com/davidmartinez13/neuroexon-by-brAIniacs-NeuroTechX-Hackathon/blob/main/readme_files/setup.jpeg)
 
+# Further EEG scripts avaliable upon request.
+
 # References
 
 1 U. N. D. of Economic and S. A. P. Division,World population ageing: 2017 highlights. UN,2017.
