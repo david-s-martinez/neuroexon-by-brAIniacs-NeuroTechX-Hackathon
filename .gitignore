@@ -1,0 +1,3 @@
+eeg_classification/mi_and_ssvep_paradigm_pygame.py
+eeg_classification/offline_classification.py
+eeg_classification/offline_preprocessing.py
